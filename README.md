@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreya
 - 👀 I’m interested in Front end development.
 - 🌱 I’m currently learning Javascript and React.
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 📫 You can reach me at - xjshreya37@gmail.com.
 
 <!---
