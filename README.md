@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end development.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️
-- 📫 You can reach me at - xjshreya37@gmail.com.
+- 📫 You can reach me at - meenaxjha@gmail.com.
 
 <!---
 Shreya388/Shreya388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
