@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shreya
-- 👀 I’m interested in Front end development.
-- 🌱 I’m currently learning Javascript and React.
-- 💞️
+- 👀 On the way to becoming a MERN stack developer.
+- 🌱 I’m currently learning backend development.
 - 📫 You can reach me at - meenaxjha@gmail.com.
 
 <!---
