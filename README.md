@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Shreya
+
+<h1>Hi,👋  I'm Shreya Jha</h1>
+- Hi, I’m Shreya
 - 👀 On the way to becoming a MERN stack developer.
 - 🌱 I’m currently learning backend development.
 - 📫 You can reach me at - meenaxjha@gmail.com.
