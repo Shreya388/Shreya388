@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I'm Shreya Jha 🙂</h1>
+<h1 align="center">Hi! I'm Shreya Jha </h1>
 <br />
 <p>Hello! I'm Shreya Jha, a software developer passionate about creating top-notch, user-friendly website designs. I pay close attention to details and specialize in building software that is not only efficient but also easy to maintain and scale.</p>
 
