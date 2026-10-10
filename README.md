@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Node.js Backend**
 - 📝 I regularly write articles on [https://medium.com/@shreyaj](https://medium.com/@shreyaj)
 - 🧑🏻‍💻 Here is my Linkedin profile <a href="https://www.linkedin.com/in/shreya-jha-6043aa1a3/">link</a>
-- 💬 Contact me at shreyajhaa1234@gmail.com 
+- 💬 Contact me at shreyajhauser@gmail.com 
 
 <br /><br />
 
